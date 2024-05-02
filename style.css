@@ -4,6 +4,7 @@ body {
   font-family: Tempus sans, sans-serif;
   margin: 5% 5%;
 }
+
 .exp-header {
   text-align: center;
   text-transform: uppercase;
@@ -12,6 +13,9 @@ body {
   border-left: 1px solid #080808;
   border-right: 1px solid #080808;
   background-color: rgba(0,0,0,0.4);
-  color: #dddddd;
-  
+  color: #dddddd; 
+}
+
+.exp-middle {
+  text-align: center;
 }
