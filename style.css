@@ -1,21 +1,147 @@
-body {
-  background-color: #2CB8C7;
-    color: #;
-  font-family: Tempus sans, sans-serif;
-  margin: 5% 5%;
-}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Brii SwordLegz Resume</title>
+</head>
+    
+<style>
+  </style>
+<body>
+  <div id="div1">
 
-.exp-header {
-  text-align: center;
-  text-transform: uppercase;
-  border-top: 1px solid #080808;
-  border-bottom: 1px solid #080808;
-  border-left: 1px solid #080808;
-  border-right: 1px solid #080808;
-  background-color: rgba(0,0,0,0.4);
-  color: #dddddd; 
-}
+<div class="container">
+  
+  <!-- LEFT SIDE -->
+  
+  <div class="section-one">
+  
+  <div>
 
-.exp-middle {
-  text-align: center;
-}
+  <h1>Brii SwordLegz</h1>
+    <h2>Communications Coordinator</h2>
+    
+      
+  <!-- Contact Info -->
+    
+    <link rel="stylesheet" href="style.css" />
+    <img class="image" height="360px" src="https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/440058672_10159153113661362_5388780124389705304_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=MMHyujk-eZcQ7kNvgERkNV8&_nc_ht=scontent-ord5-1.xx&oh=00_AfBrF2RHZfwvWTgxkFiKAPSgMz3-ZaIKmwJ-xtKQM9L2Jw&oe=663B8EBA">
+    <div class="exp-header">
+    <h3>Personal Info</h3>
+  </div>
+  
+  <div class="exp-middle">
+    <h3>Email</h3>
+    <h4>brii.swordlegz@gmail.com</h4>
+    <h3>Phone</h3>
+    <h4>507-491-1159</h4>
+    <h3>Website</h3>
+    <a><a href="http://www.linkedin.com/in/brii-swordlegz"</a>
+      <h4>http://www.linkedin.com/in/brii-swordlegz<h/4></a>
+  </div>
+  
+  <!-- I'm good at things. -->
+      
+  <div class="exp-header">
+    <h3>Skills</h3>
+  </div>
+
+  <div class="exp-middle">
+    <p>Experience with Google Docs Editor Suite</p>
+    <p>Manage store teams</p>
+    <p>Train new store managers</p>
+    <p>Operations and project management</p>
+    <p>Strong interpersonal and corporate communications</p>
+    <p>Employee training and development</p>
+    <p>Quick mastering of new skills</p>
+    <p>Exceptional organizational skills</p>
+  
+  </div>
+      
+ <!-- I do talk time. -->
+      
+   <div class="exp-header">
+      <h3>Languages</h3>
+  </div>
+   <div class="exp-middle">
+     <p>English</p>
+  </div>
+  
+</div>
+    </div>
+
+  <!-- RIGHT SIDE -->
+    
+  <div class="section-two">
+    
+  <!-- I did a work time. -->
+    
+   <div>
+     <p>Dedicated Communications Coordinator with 2+ years of experience covering internal communications and compliance between store managers, supervisors, and the Director of Stores and 8+ years of Team Management.
+Articulate communicator with strong attention to detail, excellent work ethic, adaptability and exceptional interpersonal skills while excelling with managing concurrent projects.</p>
+   <div class="work-history">
+    <h3>Work History</h3>
+  </div>
+  
+  <div class="exp-middle">
+    <h3>Ragstock</h3>
+    <h4>Communications Coordinator</h4>
+    <h4>2021 - Present</h4>
+      <ul>
+        <li>Provide store-to-supervisor reports of project completions, communications, and training when necessary</li>
+        <li>Coordinate with the director and supervisors to implement and improve strategies to maximize efficiency and productivity with store managers to achieve goals when projects are not on track to meet deadlines</li>
+        <li>Manage multiple projects and tasks simultaneously while managing company expectations</li>
+        <li>Collaborate with the director and supervisors to promote, plan and organize communication materials</li>
+        <li>Provide leadership, insight and mentoring to newly hired employees and managers, supplying knowledge of various company programs and policies</li>
+      </ul>
+    <h4>Store Manager</h4>
+    <h4>2015 - Present</h4>
+      <ul>
+        <li>Recruit, train and supervise new employees and managers at various locations on best practices and protocols while managing teams, and participating in subordinates' tasks to facilitate productivity and overcome difficulties</li>
+        <li>Provide leadership, insight and mentoring to employees and managers and giving knowledge of various company programs and policies</li>
+        <li>Prepare monthly staff work schedules to provide proper floor coverage within fiscal guidelines, and delegate work to staff, setting priorities and goals</li>
+        <li>Monitor employee performance and identify performance gaps for corrective action by working closely with staff members and assessing performance, identifying causes and issues to find solutions</li>
+        <li>onduct storewide merchandising to provide excellent visual aesthetics, maintaining store signage and displays, and updating when new promotions begin</li>
+      </ul>
+  </div>
+  
+  <div class="exp-middle">
+    <h3>Brii's Bento Cakery</h3>
+    <h4>Owner | Baker</h4>
+    <h4>2017 - Present</h4>
+      <ul>
+        <li>Bake & decorate cake bites</li>
+        <li>Create custom orders</li>
+        <li>Experiment with different types of ingredients</li>
+      </ul>
+  </div>
+     
+   <!-- I did my best... -->
+     
+  <div class="work-history">
+    <h3>Education</h3>
+  </div>
+  
+  <div class="exp-middle">
+    <h3>Associates of Applied Science - Music and Entertainment Business</h3>
+    <h4>The Institute of Production and Recording - Minneapolis, MN</h4>
+    <h4>October 2007 - December 2009</h4>
+    
+   <!-- Who you wanna talk to? -->
+    
+  <div class="work-history">
+    <h3>References</h3>
+  </div>
+    
+  <div class="exp-middle">
+    <h3>Available upon request</h3>
+    </div>
+     </div>
+
+  <div class="section-three">
+    <img src="">
+    </div>
+
+</body>
+</html>
