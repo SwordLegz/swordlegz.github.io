@@ -11,7 +11,7 @@ body {
 
 .container {
   display: flex;
-  height: 150vh;
+  height: 100vh;
   background-color: #ffffff;
 }
 
