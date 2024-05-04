@@ -17,14 +17,13 @@ body {
 
 .section-one {
   display: flex;
-  height: 250vh;
   background-color: #2CB8C7;
   padding: 0px
 }
 
 .section-two {
   display: flex;
-  height: 250vh;
+  height: 100%;
   background-color: #ffffff;
   padding: 300px
   text-align: center;
