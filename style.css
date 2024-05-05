@@ -1,7 +1,6 @@
-body {
+.body {
   background-color: #ffffff;
-    color: #080808;
-  font-family: Trebuchet MS , fantasy;
+  color: #080808;
   margin: 15px;
   height: 100vh;
 }
@@ -13,12 +12,14 @@ body {
 .container {
   display: flex;
   background-color: #ffffff;
+  font-family: Trebuchet MS, fantasy;
 }
 
 .section-one {
   display: flex;
   background-color: #2CB8C7;
   padding: 0px
+  
 }
 
 .section-two {
@@ -27,6 +28,7 @@ body {
   background-color: #ffffff;
   padding: 300px
   text-align: center;
+  
 
 }
 
@@ -69,3 +71,38 @@ div {
   padding-left: 5px;
 }
 
+/* Back to Top */
+
+html {
+  scroll-behavior: smooth;
+}
+
+.back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2CB8C7;
+  width: 50px;
+  height: 50px;
+  border-radius: 50rem;
+  padding: 0.5rem;
+  text-decoration: none;
+  cursor: hand;
+}
+
+.back-to-top span {
+  color: #ffffff;
+  font-size: 3rem;
+  transition: 0.2s ease-out;
+}
+
+.back-to-top:hover {
+  background-color: #2A8F93;
+}
+
+.back-to-top:hover span {
+  transform: translateY(-4px);
+}
