@@ -137,19 +137,28 @@ Articulate communicator with strong attention to detail, excellent work ethic, a
     <h3>Available upon request</h3>
     </div>
      </div>
-
-  <div class="section-three">
-    <img src="">
-    </div>
      
     <!-- Back to Top Button -->
   
    <a href="#" class="back-to-top">
 <span class="material-symbols-outlined">arrow_upward</span>
-   <button id="btnScrollToTop">
-     <i class="material-symbols-outline"></i>
-  </button>   
   
+     <script>
+     document.addEventListener('scroll', () => {
+
+const btnBackToTop = document.querySelector(".btnBackToTop");
+
+if (window.pageYOffset > 100) {
+  btnBackToTop.classList.add('show');
+} else {
+  btnBackToTop.classlist.remove("show");
+}
+
+window.scrollTo({
+  top: 0,
+  left: 0,
+  behavior: "smooth"
+});</script>
 
 </body>
 </html>
